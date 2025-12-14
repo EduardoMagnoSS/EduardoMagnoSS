@@ -1,4 +1,4 @@
-Também disponível em inglês: README-en.md
+Também disponível em inglês: https://github.com/EduardoMagnoSS/EduardoMagnoSS/blob/1e73109db18706f162ad247d0e71adb4c9dfdee1/README-en.md
 
 Muito interessado no mundo do desenvolvimento de software, principalmente no que se trata sobre programação. Pretendo me tornar um desenvolvedor web full stack, mas com foco em backend.
 
