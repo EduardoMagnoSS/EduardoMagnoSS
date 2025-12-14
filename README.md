@@ -1,4 +1,4 @@
-Também disponível em inglês: EduardoMagnoSS/README.en.md
+Também disponível em inglês: ./README.en.md
 
 Muito interessado no mundo do desenvolvimento de software, principalmente no que se trata sobre programação. Pretendo me tornar um desenvolvedor web full stack, mas com foco em backend.
 
